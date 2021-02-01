@@ -1,0 +1,8 @@
+README.md
+setup.py
+numpysocket.egg-info/PKG-INFO
+numpysocket.egg-info/SOURCES.txt
+numpysocket.egg-info/dependency_links.txt
+numpysocket.egg-info/not-zip-safe
+numpysocket.egg-info/requires.txt
+numpysocket.egg-info/top_level.txt
